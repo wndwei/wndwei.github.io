@@ -1,4 +1,4 @@
 # Hi! 
 I'm Dawei Wang
 
-Some cool books: [Recommendations](recs.md)
+Some restaurant and book recommendations: [Recommendations](recs.md)
