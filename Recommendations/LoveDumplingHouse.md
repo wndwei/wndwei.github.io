@@ -1,6 +1,4 @@
----
-title: "Love's Dumpling House"
----
+# Love's Dumpling House
 For the past decade, I have been going to restaurants around Houston and have come across many great ones. One goal of mine has been to find a great restaurant that I could repeatedly go to and still experience the same greatness as the first time. Recently, I discovered Love’s Dumpling House, a Chinese restaurant focused on dumplings located in Katy, TX. 
 ## Dishes
 My favorite dish is their Spicy Wontons in Red Oil. The wonton wrap is at the right firmness and thinness; it is constructed in multiple flaps to hold on the soup, more on that later. The wonton encloses pork & shrimp; just the right size. My favorite part of the dish is the soup: it harbors a great proportion between sourness, spiciness, and umami. The sourness adds to the pork & shrimp: the taste can be compared to dipping dumplings into dark vinegar, though milder, so I always add bit more vinegar myself. The spiciness is subtle but acts as a refresher that lets the wontons strike the same deliciousness every time. The umami taste is rich and can be compared to miso soup; chopped pieces of scallions add to the umami and presentation of the dish. 
