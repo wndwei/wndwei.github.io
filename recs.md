@@ -7,4 +7,4 @@ permalink: /recs
 - [Love's Dumpling House](Recommendations/LoveDumplingHouse.md)
   
 ## Books
-- [Trespassing on Einstein's Lawn]
+- Trespassing on Einstein's Lawn
